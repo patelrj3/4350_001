@@ -1,0 +1,10 @@
+C#
+HTML/CSS
+Java
+Git/GitHub
+Oracle + Microsoft SQL
+Python
+Swift
+Javascript (fundamentals)
+C++ (fundamentals)
+Basic bash scripting
