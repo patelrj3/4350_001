@@ -1,0 +1,8 @@
+C#
+Java
+Python
+Git/Github
+HTML / CSS
+SQL (basic understanding)
+C (basic understanding)
+C++ (basic understanding)
