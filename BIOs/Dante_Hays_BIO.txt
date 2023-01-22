@@ -1,0 +1,16 @@
+Relevant Software Engineering Skills (In order of strength)
+
+  Proficient Skills
+  
+.NET Development (C#/MVC)
+Scrum
+Source Control (Git/GitHub/TFS/Azure DevOps)
+Javascript/AJAX/JQuery
+HTML/CSS
+Pyhton
+
+  Adept Skills
+  
+SQL (Oracle/Microsoft)
+APIs
+Pipelines

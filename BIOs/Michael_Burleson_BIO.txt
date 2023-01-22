@@ -1,0 +1,9 @@
+Python
+MySQL / T-SQL / Oracle
+HTML/CSS
+Javascript
+C#
+C
+Source control (GitHub)
+PHP
+MVC
