@@ -2,9 +2,9 @@ Proficient:
 * C# and .NET frameworks (ASP.NET MVC, Blazor, etc.)
 * Java
 * SQL
-* HTML/CSS/JS/jQuery
 * Source control (Git/Azure DevOps/Bitbucket)
 * Azure DevOps (Sprint management, source control, pipelines, etc.)
+* HTML/CSS/JS/jQuery
 
 Good:
 * System administration (Linux/Windows)
