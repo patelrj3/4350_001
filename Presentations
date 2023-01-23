@@ -11,7 +11,7 @@ Lifecycle Models and Process
 1.	Kanban (Software Development)	- Tanner Collins, COry Windham	
 2.	Crystal (Software Development)	- Calen Cummings	
 3.	Team Software Process and Personal Software Process		
-4.a.	Build Automation
+4.a.	Build Automation - Drew Dorris
 4.b. 	CI/CD Pipeline - Robert LoCicero
 
 Project Management and Professional Practice
@@ -30,7 +30,7 @@ Software Architectures and Tools
 13.	Platform as a Service	- Calen Cummings			
 14.	Docker  - Philip Gaver, Cory Windham
 15.	Ansible
-16.	Jenkins	
+16.	Jenkins	- Drew Dorris
 17.	Splunk (for DevOps)	
 18.	Selenium
 19.	AppDynamics		
