@@ -1,0 +1,6 @@
+#C
+Java
+Sql / Oracle
+Github
+Python
+MVC 
