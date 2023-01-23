@@ -8,26 +8,29 @@ you can team up with someone and co-present: if you do team up, the presentation
 
 
 Lifecycle Models and Process
-1.	Kanban (Software Development)		
-2.	Crystal (Software Development)		
+1.	Kanban (Software Development)	- Tanner Collins, COry Windham	
+2.	Crystal (Software Development)	- Calen Cummings	
 3.	Team Software Process and Personal Software Process		
-4.	Build Automation				
+4.a.	Build Automation - Drew Dorris
+4.b. 	CI/CD Pipeline - Robert LoCicero
 
 Project Management and Professional Practice
-5.	Risk Management				
-6.	Software Complexity Metrics			
+5.	Risk Management		        -Josh Pitts
+6.	Software Complexity Metrics	- Ty Seiber		
 7.	Formal Methods				
 8.	Cleanroom Software Engineering
-9.	Microsoft Project
+9.	Microsoft Project -Dawson Busby
 10.	Software Engineering Licensing			
 
 Software Architectures and Tools
-11.	Service-Oriented Architecture			
-12.	Infrastructure as a Service			
-13.	Platform as a Service				
-14.	Docker
+11.	Service-Oriented Architecture - Ty Seiber	
+	
+12.	Infrastructure as a Service	- Dante Hays	, Michael Burleson	
+
+13.	Platform as a Service	- Calen Cummings			
+14.	Docker  - Philip Gaver, Cory Windham
 15.	Ansible
-16.	Jenkins	
+16.	Jenkins	- Drew Dorris
 17.	Splunk (for DevOps)	
 18.	Selenium
 19.	AppDynamics		
@@ -36,9 +39,9 @@ Development Paradigms and Testing
 20.	Test-Driven Development
 21.	Behavior Driven Development
 22.	Feature Driven Development
-23.	Dependency Injection
+23.	Dependency Injection - Robert LoCicero
 
 AI in SE
-24. AI for code completion
-25. AI for code creation (where the AI writes all the code)
-26. AI for code analysis
+24. AI for code completion - Dawson Busby
+25. AI for code creation (where the AI writes all the code) - Zach Hower, Raj Patel
+26. AI for code analysis - Dante Hays

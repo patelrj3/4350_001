@@ -1,0 +1,7 @@
+C#
+ASP.NET & Entity Framework
+HTML
+SQL
+JavaScript
+Python
+Java
