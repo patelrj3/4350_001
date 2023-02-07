@@ -32,11 +32,11 @@ Software Architectures and Tools
 15.	Ansible - Isaiah Jayne
 16.	Jenkins	- Drew Dorris
 17.	Splunk (for DevOps) - Tanner Collins	
-18.	Selenium
+18.	Selenium - Jeremy Bishop
 19.	AppDynamics		
 
 Development Paradigms and Testing
-20.	Test-Driven Development
+20.	Test-Driven Development - Jeremy Bishop
 21.	Behavior Driven Development
 22.	Feature Driven Development
 23.	Dependency Injection - Robert LoCicero
