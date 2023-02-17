@@ -11,16 +11,16 @@ Lifecycle Models and Process
 1.	Kanban (Software Development)	- Tanner Collins, COry Windham	
 2.	Crystal (Software Development)	- Calen Cummings	
 3.	Team Software Process and Personal Software Process - Micah Crawford
-4.a.	Build Automation - Drew Dorris
+4.a.	Build Automation - Drew Dorris, Joshua Thomas
 4.b. 	CI/CD Pipeline - Robert LoCicero
 
 Project Management and Professional Practice
 5.	Risk Management		        -Josh Pitts , Shaun Bennett
 6.	Software Complexity Metrics	- Ty Seiber		
-7.	Formal Methods				
-8.	Cleanroom Software Engineering
+7.	Formal Methods			- Dylan Shaffer	
+8.	Cleanroom Software Engineering	- Dylan Shaffer
 9.	Microsoft Project -Dawson Busby    ,  Micah Crawford
-10.	Software Engineering Licensing			
+10.	Software Engineering Licensing - Isaiah Jayne		
 
 Software Architectures and Tools
 11.	Service-Oriented Architecture - Ty Seiber	
@@ -29,15 +29,15 @@ Software Architectures and Tools
 
 13.	Platform as a Service	- Calen Cummings			
 14.	Docker  - Philip Gaver, Cory Windham
-15.	Ansible - Jackson Coffey
+15.	Ansible - Isaiah Jayne, Jackson Coffey
 16.	Jenkins	- Drew Dorris
 17.	Splunk (for DevOps) - Tanner Collins	
-18.	Selenium
+18.	Selenium - Jeremy Bishop
 19.	AppDynamics		
 
 Development Paradigms and Testing
-20.	Test-Driven Development
-21.	Behavior Driven Development
+20.	Test-Driven Development - Jeremy Bishop
+21.	Behavior Driven Development - Joshua Thomas
 22.	Feature Driven Development
 23.	Dependency Injection - Robert LoCicero
 
