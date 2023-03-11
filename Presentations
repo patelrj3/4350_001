@@ -9,7 +9,7 @@ you can team up with someone and co-present: if you do team up, the presentation
 
 Lifecycle Models and Process
 1.	Kanban (Software Development)	- Tanner Collins (https://youtu.be/l6hM8OtxdxM), COry Windham	
-2.	Crystal (Software Development)	- Calen Cummings, Christian Calhoun-(https://youtu.be/GNYuaU8r4po)
+2.	Crystal (Software Development)	- Calen Cummings-(https://youtu.be/Fi0-eTJijV0), Christian Calhoun-(https://youtu.be/GNYuaU8r4po)
 3.	Team Software Process and Personal Software Process - Micah Crawford
 4.a.	Build Automation - Drew Dorris, Joshua Thomas-(https://youtu.be/cYYpxQi2IQc)
 4.b. 	CI/CD Pipeline - Robert LoCicero - https://www.youtube.com/watch?v=9nSIeB2VC_M,  Philip Gaver
@@ -19,27 +19,27 @@ Project Management and Professional Practice
 6.	Software Complexity Metrics	- Ty Seiber		
 7.	Formal Methods			- Dylan Shaffer	(https://youtu.be/T6LaA6jEmxY)
 8.	Cleanroom Software Engineering
-9.	Microsoft Project -Dawson Busby    ,  Micah Crawford
+9.	Microsoft Project -Dawson Busby    ,  Micah Crawford- https://youtu.be/KINAn4rRKAw
 10.	Software Engineering Licensing - Isaiah Jayne		https://drive.google.com/file/d/1SfyJLGQBxWZ_CqTEQS7OMGM3F-WfuHbe/view?usp=share_link
 
 Software Architectures and Tools
 11.	Service-Oriented Architecture - Ty Seiber (https://youtu.be/oUg1SuqMwAY)		
-12.	Infrastructure as a Service	- Dante Hays (https://youtu.be/vJcfqiIo2uk)	, Michael Burleson	
+12.	Infrastructure as a Service	- Dante Hays (https://youtu.be/vJcfqiIo2uk)	, Michael Burleson (https://youtu.be/mB3qf_o7M9s)
 13.	Platform as a Service	- Calen Cummings	, Olubiyi Oluwatofunmi
 14.	Docker  - Philip Gaver, Cory Windham
 15.	Ansible - Isaiah Jayne, Jackson Coffey (https://youtu.be/Io1Z2jhbGzw)
-16.	Jenkins	- Drew Dorris
+16.	Jenkins	- Drew Dorris (https://youtu.be/0HMHdmh7kQE)
 17.	Splunk (for DevOps) - Tanner Collins	
 18.	Selenium - Jeremy Bishop, Dylan Shafer
 19.	AppDynamics - Olubiyi Oluwatofunmi
 
 Development Paradigms and Testing
 20.	Test-Driven Development - Jeremy Bishop: (https://etsu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b4f8885d-9453-4481-9971-afc100490dc5), Christian Calhoun
-21.	Behavior Driven Development - Joshua Thomas
+21.	Behavior Driven Development - Joshua Thomas, Michael Burleson
 22.	Feature Driven Development - Josh Pitts, Kyle Darnell- https://youtu.be/SLUnmBZpx7Y
 23.	Dependency Injection - Robert LoCicero
 
 AI in SE
 24. AI for code completion - Dawson Busby, Kyle Darnell
-25. AI for code creation (where the AI writes all the code) - Zach Hower, Raj Patel https://youtu.be/SYNt_w5kWxc
+25. AI for code creation (where the AI writes all the code) - Zach Hower https://youtu.be/tdtejp01Y3o, Raj Patel https://youtu.be/SYNt_w5kWxc
 26. AI for code analysis - Dante Hays , Shaun Bennett
